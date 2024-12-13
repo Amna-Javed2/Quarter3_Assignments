@@ -1,4 +1,4 @@
-# Quarter3_Assignments
+# Assignment 01: Understanding OpenAI Chat Completion API Parameters
 
 ## 1-Messages:
 Messages are the way of communication between the user and the AI.
