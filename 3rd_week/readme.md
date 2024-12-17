@@ -1,5 +1,7 @@
 # Assignment 02: Understanding Key API and Software Concepts
 
+
+
 ## APIs
 API stands for Application Programming Interface.It allows different machines to communicate with each other.
 
